@@ -107,7 +107,7 @@ fun TelaCursos(){
                 },
                 colors = OutlinedTextFieldDefaults.colors(
                     unfocusedBorderColor = colorResource(R.color.yellow),
-                    unfocusedContainerColor = colorResource(R.color.gray_claro)
+                    unfocusedContainerColor = colorResource(R.color.gray_light)
                 )
             )
             Row(

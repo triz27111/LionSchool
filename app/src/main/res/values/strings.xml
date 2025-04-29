@@ -7,8 +7,24 @@
     <string name="find_your">Find your Course</string>
     <string name="courses">Courses</string>
     <string name="find_student">Find a student"</string>
-    <string name="curso">DS</string>
+    <string name="ds">DS</string>
     <string name="todos">Todos</string>
     <string name="finalized">Finalizado</string>
-    <string name="strudents">Students List</string>
+    <string name="students">Students List</string>
+    <string name="cursando">Cursando</string>
+    <string name="luana">Luana Oliveira Dias</string>
+    <string name="desempenho">Desempenho</string>
+    <string name="text">001 - Técnico em Desenvolvimento de Sistemas</string>
+    <string name="siop">SIOP</string>
+    <string name="inri">INRI</string>
+    <string name="innu">INNU</string>
+    <string name="ha">HA</string>
+    <string name="sere">SERE</string>
+    <string name="caes">CAES</string>
+    <string name="number1"></string>
+    <string name="number2"></string>
+    <string name="number3"></string>
+    <string name="number4"></string>
+    <string name="number5"></string>
+    <string name="number6"></string>
 </resources>
